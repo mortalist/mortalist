@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mortalist
 - 👀 I’m interested in machine learning, mobile application development, and stock trading.
 - 🌱 I’m currently learning flutter.
-- 📫 How to reach me is my email algoon34348@gmail.com
+- 📫 How to reach me is my email algoon3438@gmail.com
