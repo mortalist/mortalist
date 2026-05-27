@@ -23,10 +23,10 @@ Stack
   https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white
 
   주로 만드는 것: 자동화 스크립트, 퀀트 전략, 데이터 파이프라인
-  요즘 파고드는 것: 알고 트레이딩 · 뉴럴넷 · 전자기학
+  요즘 하는 것: 알고 트레이딩 · 뉴럴넷 · 전자기학
 
   ---
 
-  ▎ "Markets are noisy. Code should not be."
+  ▎ "Dirty Hands!"
 
   ---
