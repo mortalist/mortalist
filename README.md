@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="factorio.gif" alt="we do a little factorio" width="240" />
+<img src="factorio.gif" alt="we do a little factorio" width="600" />
 
-<img src="header.svg" alt="THE FACTORY MUST GROW — automate everything" width="100%" />
+### THE FACTORY MUST GROW
 
 </div>
 
