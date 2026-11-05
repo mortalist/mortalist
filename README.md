@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Seunghyun%20Jung&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Engineering%20%C3%97%20Economics%20%C2%B7%20Quant%20%C2%B7%20Automation&descAlignY=60&descSize=16" alt="header" />
-
-<a href="https://github.com/mortalist">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Trades+with+systems%2C+not+gut+feelings;Founded+a+motorsports+club+because+none+existed;Dirty+hands+%E2%80%94+ship+it+first%2C+polish+later" alt="typing" />
-</a>
+<img src="header.svg" alt="THE FACTORY MUST GROW — automate everything" width="100%" />
 
 </div>
 
