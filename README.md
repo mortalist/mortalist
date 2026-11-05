@@ -18,7 +18,7 @@
 - 🏎️ Founder of a F1 / motorsports club · 🇰🇷 🇬🇧 bilingual (grew up across Germany, China, Korea)
 - 📚 Currently: algo trading · neural networks · electromagnetics (Griffiths)
 
-## 🛠 Stack
+## 🛠 Favorite Tools of Choice
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
