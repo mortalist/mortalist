@@ -2,8 +2,6 @@
 
 <img src="factorio.gif" alt="we do a little factorio" width="600" />
 
-### THE FACTORY MUST GROW
-
 </div>
 
 <br>
